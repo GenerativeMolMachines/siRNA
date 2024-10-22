@@ -1,0 +1,1300 @@
+[
+    {
+        "names": [
+            "2-Methoxy",
+            "2-O-Methyl",
+            "2-O-Methylribose",
+            "2-O-Methlyribose",
+            "2-O-Methyl ribose",
+            "2-Methoxyribose",
+            "O-Methyl"
+        ],
+        "place": "sugar",
+        "locant": "2",
+        "smiles": "C(OC)",
+        "ref_smiles": "COC1C(O)OC(CO)C1O",
+        "count": 2136
+    },
+    {
+        "names": [
+            "2,4-bridged nucleic acid",
+            "Locked nucleic acid",
+            "2,4-Locked nucleic acid",
+            "Alfa-L-Locked nucleic acid",
+            "2,4-Carbocyclic-Locked nucleic acid-Locked nucleic acid"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "C3OC(C4)(CO{PHOSPHATE})C(O)C(O4)3",
+        "ref_smiles": "OCC12COC(CO1)C2O",
+        "count": 1836
+    },
+    {
+        "names": [
+            "2-Deoxy",
+            "2-Deoxyribonucleotide",
+            "Deoxy"
+        ],
+        "place": "sugar",
+        "locant": "2",
+        "smiles": "C",
+        "ref_smiles": "OCC1OCCC1O",
+        "count": 1499
+    },
+    {
+        "names": [
+            "2-Fluoro",
+            "2-Fluororibose",
+            "2-Deoxy-2-Fluoro",
+            "2-Deoxy-2-fluororibose",
+            "2-Deoxy-2-Fluoroarabinonucleic acid",
+            "2-Deoxy-2-fluorouridine"
+        ],
+        "place": "sugar",
+        "locant": "2",
+        "smiles": "C(F)",
+        "ref_smiles": "OCC1OCC(F)C1O",
+        "count": 869
+    },
+    {
+        "names": [
+            "unlocked nucleic acid",
+            "UnLocked nucleic acid",
+            "Unlocked nucleic acid"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "C(CO)OC(CO{PHOSPHATE})(CO)",
+        "ref_smiles": "OCCOC(CO)CO",
+        "count": 561
+    },
+    {
+        "names": [
+            "Inverted abasic",
+            "Inverted abasic (Mutation)"
+        ],
+        "place": "whole",
+        "locant": "whole",
+        "smiles": "C3OC(CO{PHOSPHATE})C(O)C3",
+        "ref_smiles": "CC1COC(CO)C1OP(O)([O-])=O",
+        "count": 509
+    },
+    {
+        "names": [
+            "Hexitol nucleic acid"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "C3COC(CO{PHOSPHATE})C(O)C(O)3",
+        "ref_smiles": "OCC1OCCCC1O",
+        "count": 469
+    },
+    {
+        "names": [
+            "4-C-Hydroxymethyl Deoxyribonucleic acid"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "C3OC(CO{PHOSPHATE})(CO)C(O)C3",
+        "ref_smiles": "OCC1(CO)OCCC1",
+        "count": 467
+    },
+    {
+        "names": [
+            "DeoxyThymidine",
+            "Thymidine",
+            "2-Deoxythymidine",
+            "2-Deoxythymidine (Mutation)"
+        ],
+        "place": "whole",
+        "locant": "whole",
+        "smiles": "CC1=CN(C(=O)NC1=O)(C3OC(CO{PHOSPHATE})C(O)C3)",
+        "ref_smiles": "CC1=CN(C2CC(O)C(CO)O2)C(=O)NC1=O",
+        "count": 415
+    },
+    {
+        "names": [
+            "Altritol nucleic acid"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "C3COC(CO)C(O{PHOSPHATE})C(O)3",
+        "ref_smiles": null,
+        "count": 406
+    },
+    {
+        "names": [
+            "2-O-Aminoethyl-ribose",
+            "2-Aminoethyl"
+        ],
+        "place": "sugar",
+        "locant": "2",
+        "smiles": "C(OCCN)",
+        "ref_smiles": "NCCOC1COC(CO)C1O",
+        "count": 291
+    },
+    {
+        "names": [
+            "5-Phosphate",
+            "5-phosphate ribose"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "C3OC(CO{PHOSPHATE})C(O({PHOSPHATE}))C(O)3",
+        "ref_smiles": "OC1COC(COP(O)([O-])=O)C1O",
+        "count": 238
+    },
+    {
+        "names": [
+            "Phosphorothioate"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "C3OC(CO)C(O(P(=O)(S)O))C(O)3",
+        "ref_smiles": "OCC1OCC(O)C1OP(O)(S)=O",
+        "count": 214
+    },
+    {
+        "names": [
+            "2-Hydroxy"
+        ],
+        "place": "sugar",
+        "locant": "2",
+        "smiles": "C(O)",
+        "ref_smiles": "OCC1OCC(O)C1O",
+        "count": 178
+    },
+    {
+        "names": [
+            "4-Thioribose",
+            "4\u2019-thioribose"
+        ],
+        "place": "sugar",
+        "locant": "4",
+        "smiles": "S",
+        "ref_smiles": "OCC1SCC(O)C1O",
+        "count": 152
+    },
+    {
+        "names": [
+            "2-Aminoethoxymethyl"
+        ],
+        "place": "sugar",
+        "locant": "2",
+        "smiles": "C(OCOCCN)",
+        "ref_smiles": "NCCOCOC1COC(CO)C1O",
+        "count": 143
+    },
+    {
+        "names": [
+            "2-Aminopropoxymethyl"
+        ],
+        "place": "sugar",
+        "locant": "2",
+        "smiles": "C(OCOCCCN)",
+        "ref_smiles": "NCCCOCOC1COC(CO)C1O",
+        "count": 141
+    },
+    {
+        "names": [
+            "2,4-Carbocyclic-Ethylene-bridged nucleic acid-Locked nucleic acid"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "C3OC(C4)(CO{PHOSPHATE})C(O)C(C(O)C4)3",
+        "ref_smiles": "OCC12CCCC(CO1)C2O",
+        "count": 139
+    },
+    {
+        "names": [
+            "2-N-Adamant-1-yl-Methylcarbonyl-2-Amino-Locked nucleic acid"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "C1OC2(CO{PHOSPHATE})CN(C(=O)CC34CC5CC(CC(C5)C3)C4)C1C2O",
+        "ref_smiles": "OCC12CN(C(CO1)C2O)C(=O)CC12CC3CC(CC(C3)C1)C2",
+        "count": 138
+    },
+    {
+        "names": [
+            "2-Deoxy-2-N,4-C-Ethylene-Locked nucleic acid"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "C3OC(C4)(CO{PHOSPHATE})C(O)C(N4)3",
+        "ref_smiles": "OCC12CCNC(CO1)C2O",
+        "count": 135
+    },
+    {
+        "names": [
+            "Triazole-linked nucleic acid"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "CC(=O)N(CC)Cc1c[nH]nn1",
+        "ref_smiles": "CCN(CCN1C=C(CN(CC)C(C)=O)N=N1)C(C)=O",
+        "count": 100
+    },
+    {
+        "names": [
+            "Oxetane-Locked nucleic acid"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "C34OC(CO{PHOSPHATE})C(O)C(OC4)3",
+        "ref_smiles": "OCC1OC2OC2C1O",
+        "count": 96
+    },
+    {
+        "names": [
+            "Serinol nucleic acid"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "CC(=O)NC(CO)CO{PHOSPHATE}",
+        "ref_smiles": "CC(=O)NC(CO)COP(O)(O)=O",
+        "count": 92
+    },
+    {
+        "names": [
+            "2-N-Pyren-1-yl Methyl-2-Amino-Locked nucleic acid"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "C1OC2(CO{PHOSPHATE})CN(Cc3ccc4ccc5cccc6ccc3c4c56)C1C2O",
+        "ref_smiles": "OCC12CN(CC3=CC=C4C=CC5=CC=CC6=CC=C3C4=C56)C(CO1)C2O",
+        "count": 90
+    },
+    {
+        "names": [
+            "Cholesterol",
+            "5-Cholesterol"
+        ],
+        "place": "whole",
+        "locant": "whole",
+        "smiles": "CC(C)CCCC(C)C1CCC2C3CC=C4CC(O(C(=O)NCCOCCOCCOCCOCC(CO)O{PHOSPHATE}))CCC4(C)C3CCC12C",
+        "ref_smiles": "CC(C)CCCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C",
+        "count": 58
+    },
+    {
+        "names": [
+            "2-O-methoxyethylribose",
+            "2-O-(2-methoxyethyl)ribose",
+            "2-O-(2-Methoxyethyl)"
+        ],
+        "place": "sugar",
+        "locant": "2",
+        "smiles": "C(OCCOC)",
+        "ref_smiles": "COCCOC1CSC(CO)C1O",
+        "count": 57
+    },
+    {
+        "names": [
+            "Tricyclodeoxyribonucleic acid"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "C1CC2(O(P(O)(O)(=O)))CC3CC3(O)C2O1",
+        "ref_smiles": "OC1CCC2(O)CCOC12",
+        "count": 51
+    },
+    {
+        "names": [
+            "2-Guanidinoethyl"
+        ],
+        "place": "sugar",
+        "locant": "2",
+        "smiles": "C(CC=NC(N)(N))",
+        "ref_smiles": "NC(N)=NCCC1COC(CO)C1O",
+        "count": 48
+    },
+    {
+        "names": [
+            "2-O-Benzyl"
+        ],
+        "place": "sugar",
+        "locant": "2",
+        "smiles": "C(Oc4ccccc4)",
+        "ref_smiles": "OCC1OCC(OC2=CC=CC=C2)C1O",
+        "count": 46
+    },
+    {
+        "names": [
+            "2-Aminopropyl"
+        ],
+        "place": "sugar",
+        "locant": "2",
+        "smiles": "C(OCCCN)",
+        "ref_smiles": "NCCCOC1C(O)C(CO)OC1N1C=NC2=C1C=C(F)C=C2F",
+        "count": 45
+    },
+    {
+        "names": [
+            "2-Cyanoethyl"
+        ],
+        "place": "sugar",
+        "locant": "2",
+        "smiles": "C(OCC#N)",
+        "ref_smiles": "OCC1OCC(OCC#N)C1O",
+        "count": 45
+    },
+    {
+        "names": [
+            "5-Amino",
+            "Aminoisonucleotide-Adenine",
+            "Aminoisonucleotide-adenine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "NC1OC(CO)C(O)C1N1C=NC2=C(N)N=CN=C12",
+        "count": 39
+    },
+    {
+        "names": [
+            "Phosphodiester",
+            "Phosphothioate"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OP(O)(O)=O",
+        "count": 39
+    },
+    {
+        "names": [
+            "Hypoxanthine"
+        ],
+        "place": "base",
+        "locant": "whole",
+        "smiles": "n1cnc2[nH]cnc(=O)c21",
+        "ref_smiles": "O=C1N=CNC2=C1NC=N2",
+        "count": 38
+    },
+    {
+        "names": [
+            "Palmitic acid",
+            "Palmitic Acid"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CCCCCCCCCCCCCCCC(=O)NCCCCCCO",
+        "count": 31
+    },
+    {
+        "names": [
+            "Cyclohexenyl nucleic acid"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "C1C=CC(CO)C(O{PHOSPHATE})C1",
+        "ref_smiles": "OCC1C=CCCC1OP(O)([O-])=O",
+        "count": 31
+    },
+    {
+        "names": [
+            "Conjugation bulky group",
+            "Small internally segmented RNA",
+            "Assymetric siRNA (3-End Overhang)",
+            "Mismatch",
+            "Cy3",
+            "Mutation"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": null,
+        "count": 30
+    },
+    {
+        "names": [
+            "2,4-Difluorotoluene",
+            "2,4-difluorotoluene ribonucleotide"
+        ],
+        "place": "base",
+        "locant": "whole",
+        "smiles": "Cc1cc(C)c(F)cc1F",
+        "ref_smiles": "CC1=CC(CC2OC(CO)C(O)C2O)=C(F)C=C1F",
+        "count": 24
+    },
+    {
+        "names": [
+            "3-Amino"
+        ],
+        "place": "sugar",
+        "locant": "3",
+        "smiles": "C(N)",
+        "ref_smiles": "NC1C(O)COC1CO",
+        "count": 22
+    },
+    {
+        "names": [
+            "Deoxyadenine"
+        ],
+        "place": "sugar",
+        "locant": "2",
+        "smiles": "C",
+        "ref_smiles": "NC1=NC=NC2=C1N=CN2C1CC(O)C(CO)O1",
+        "count": 21
+    },
+    {
+        "names": [
+            "2-O-Guanidinopropyl"
+        ],
+        "place": "sugar",
+        "locant": "2",
+        "smiles": "C(OCCC=NC(N)(N))",
+        "ref_smiles": "NC(=N)NCCCOC1COC(CO)C1O",
+        "count": 20
+    },
+    {
+        "names": [
+            "[3-(hydroxymethyl)-5-naphthalen-1-ylphenyl]methanol"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1=CC(=CC(CO)=C1)C1=CC=CC2=CC=CC=C12",
+        "count": 18
+    },
+    {
+        "names": [
+            "Phenyl"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OP(O)(=O)OCCCCCCNC(=O)COC1=CC=CC=C1",
+        "count": 18
+    },
+    {
+        "names": [
+            "Boranophosphate"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "BP(O)(=O)OC1C(O)COC1CO",
+        "count": 18
+    },
+    {
+        "names": [
+            "5-Fluoro-2-Deoxyuridine"
+        ],
+        "place": "base",
+        "locant": "whole",
+        "smiles": "N1C=C(F)C(=O)NC1=O",
+        "ref_smiles": "OCC1OC(CC1O)N1C=C(F)C(=O)NC1=O",
+        "count": 18
+    },
+    {
+        "names": [
+            "Glucosamine analogue"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "NC1C(O)C(O)C(CO)OC1OCCOP(O)([O-])=O",
+        "count": 18
+    },
+    {
+        "names": [
+            "Thymidine analogue"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CC1=CN(CC2OC(OCCOP(O)([O-])=O)C(N)C(O)C2O)C(=O)NC1=O",
+        "count": 18
+    },
+    {
+        "names": [
+            "Inverted thymidine",
+            "Inverted DeoxyThymidine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CC1=CN(C2CC(OP([O-])(=O)OC3CCOC3CO)C(CO)O2)C(=O)NC1=O",
+        "count": 17
+    },
+    {
+        "names": [
+            "[3-(hydroxymethyl)phenyl]methanol",
+            "1,3-Benzenedimethanol"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1=CC(CO)=CC=C1",
+        "count": 16
+    },
+    {
+        "names": [
+            "L-isonucleoside adenosine",
+            "L-Isonucleoside adenosine",
+            "D-Isonucleoside adenosine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "NC1=C2N=CN(C3COC(CO)C3OP(O)([O-])=O)C2=NC=N1",
+        "count": 16
+    },
+    {
+        "names": [
+            "Peptide nucleic acids"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CNC(=O)CN(C)C(C)=O",
+        "count": 16
+    },
+    {
+        "names": [
+            "2-Thiouridine",
+            "Wobble Base Pair"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OC(C(O)C1O)N1C=CC(=O)NC1=S",
+        "count": 16
+    },
+    {
+        "names": [
+            "1-Aminohexane"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CCCCCCN",
+        "count": 14
+    },
+    {
+        "names": [
+            "Morpholinouridine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1CN(CC(O1)N1C=CC(=O)NC1=O)OP(O)([O-])=O",
+        "count": 14
+    },
+    {
+        "names": [
+            "5-O-Methyl"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "C3OC(COC)C(O{PHOSPHATE})C(O)3",
+        "ref_smiles": "COCC1OCC(O)C1O",
+        "count": 14
+    },
+    {
+        "names": [
+            "Boron cluster"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "[B]1234[B]567[B]118[B]229[B]11%10[B]22%11[B]%12%13%14[B]35([B]6%123[B]12%13[C]78%103)[C]49%11%14",
+        "count": 14
+    },
+    {
+        "names": [
+            "Methylcytosine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CC1=C(N)NC(=O)N=C1",
+        "count": 13
+    },
+    {
+        "names": [
+            "Dihydrouridine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "O=C1CCNC(=O)N1",
+        "count": 13
+    },
+    {
+        "names": [
+            "Puromycin"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "COC1=CC=C(CC(N)C(=O)NC2C(CO)OC(C2O)N2C=NC3=C2N=CN=C3N(C)C)C=C1",
+        "count": 12
+    },
+    {
+        "names": [
+            "Dimethoxy-Nitrophenyl Ethyl group"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "COC1=C(OC)C=C(C(C)=C1)[N+]([O-])=O",
+        "count": 12
+    },
+    {
+        "names": [
+            "Pseudouridine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OC(C(O)C1O)C1=CNC(=O)NC1=O",
+        "count": 12
+    },
+    {
+        "names": [
+            "Lauric acid"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": null,
+        "count": 11
+    },
+    {
+        "names": [
+            "Naphthalene modification"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "C1=CC2=CC=CC=C2C=C1",
+        "count": 11
+    },
+    {
+        "names": [
+            "Pyrene modification"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "C1=CC2=C3C(C=CC4=CC=CC(C=C2)=C34)=C",
+        "count": 11
+    },
+    {
+        "names": [
+            "Methyl"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CC1C(O)COC1CO",
+        "count": 10
+    },
+    {
+        "names": [
+            "Fluorobenzene"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "FC1=CC=CC=C1",
+        "count": 10
+    },
+    {
+        "names": [
+            "Trifluoromethylbenzene"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "FC(F)(F)C1=CC=CC=C1",
+        "count": 10
+    },
+    {
+        "names": [
+            "Anthracene"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "C1=CC2=CC3=CC=CC=C3C=C2C=C1",
+        "count": 10
+    },
+    {
+        "names": [
+            "Deoxyuridine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OC(CC1O)N1C=CC(=O)NC1=O",
+        "count": 9
+    },
+    {
+        "names": [
+            "2-O-Methyl-4-Thioribose"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "COC1CSC(CO)C1O",
+        "count": 9
+    },
+    {
+        "names": [
+            "Xylo-3-fluororibose"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OCC(O)C1F",
+        "count": 8
+    },
+    {
+        "names": [
+            "Phosphate"
+        ],
+        "place": "sugar",
+        "locant": "whole",
+        "smiles": "OCC1OCC(O)C1(O{PHOSPHATE})",
+        "ref_smiles": "OCC1OCC(O)C1OP(O)([O-])=O",
+        "count": 8
+    },
+    {
+        "names": [
+            "4-C- Aminomethyl-2-O-Methylribose"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "COC1COC(CN)(CO)C1O",
+        "count": 8
+    },
+    {
+        "names": [
+            "L-Isonucleoside uracil",
+            "D-Isonucleoside-uracil",
+            "D-Isonucleoside uracil"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OCC(C1OP(O)([O-])=O)N1C=CC(=O)NC1=O",
+        "count": 8
+    },
+    {
+        "names": [
+            "5-Thio"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OC1COC(CS)C1O",
+        "count": 8
+    },
+    {
+        "names": [
+            "4-Methylbenzimidazole"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CC1=CC=CC2=C1N=CN2C1OC(CO)C(O)C1O",
+        "count": 7
+    },
+    {
+        "names": [
+            "2-Deoxy-2-Fluoro-4-Thioarabinonucleic acid"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1SCC(F)C1O",
+        "count": 7
+    },
+    {
+        "names": [
+            "5-Nitroindole-2-Deoxyribonucleotide"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OC(CC1O)N1C=CC2=CC(=CC=C12)[N+]([O-])=O",
+        "count": 7
+    },
+    {
+        "names": [
+            "Fluorouridine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OC(C(O)C1O)N1C=C(F)C(=O)NC1=O",
+        "count": 7
+    },
+    {
+        "names": [
+            "Difluorotoluyl nucleotide"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CC1=CC(C2OC(CO)C(O)C2O)=C(F)C=C1F",
+        "count": 7
+    },
+    {
+        "names": [
+            "[1,1-Biphenyl]-3,5-dimethanol"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1=CC(=CC(CO)=C1)C1=CC=CC=C1",
+        "count": 6
+    },
+    {
+        "names": [
+            "2-O-Lysylaminohexyl"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CCC1OCC(OCCCCCCNC(=O)C(CCCCNC(=O)C(F)(F)F)NC(=O)C(F)(F)F)C1O",
+        "count": 6
+    },
+    {
+        "names": [
+            "Aminoisonucleotide-thymidine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CC1=CN(C2C(N)OC(CO)C2O)C(=O)NC1=O",
+        "count": 6
+    },
+    {
+        "names": [
+            "5-hydroxy ribose"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "C1COC(C1O)CO",
+        "count": 6
+    },
+    {
+        "names": [
+            "2,4-Difluorobenzene"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OC(C(O)C1O)C1=C(F)C=C(F)C=C1",
+        "count": 6
+    },
+    {
+        "names": [
+            "5-Methylcytosine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CC1=CN(C2OC(CO)C(O)C2O)C(=O)N=C1N",
+        "count": 5
+    },
+    {
+        "names": [
+            "Deoxyinosine",
+            "2-Deoxyinosine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OC(CC1O)N1C=NC2=C1NC=NC2=O",
+        "count": 5
+    },
+    {
+        "names": [
+            "Propynyluridine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CC#CC1=CNC(=O)NC1=O",
+        "count": 5
+    },
+    {
+        "names": [
+            "3-O-methylribose"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "COC1C(O)COC1CO",
+        "count": 4
+    },
+    {
+        "names": [
+            "Xylo-O-methylribose"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "COC1CCOC1CO",
+        "count": 4
+    },
+    {
+        "names": [
+            "L-isonucleoside thymidine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CC1=CN(C2COC(CO)C2OP(O)([O-])=O)C(=O)NC1=O",
+        "count": 4
+    },
+    {
+        "names": [
+            "Galactose"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OC(O)C(O)C(O)C1O",
+        "count": 4
+    },
+    {
+        "names": [
+            "Methyleneamide"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "NC(=O)CC1C(O)COC1CO",
+        "count": 4
+    },
+    {
+        "names": [
+            "Inosine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OC(C(O)C1O)N1C=NC2=C1NC=NC2=O",
+        "count": 4
+    },
+    {
+        "names": [
+            "2-Aminopurineribonucleotide"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "NC1=NC=C2N=CN(C3OC(CO)C(O)C3O)C2=N1",
+        "count": 4
+    },
+    {
+        "names": [
+            "2-Deoxy-2-Aminopurine-2-Deoxyribonucleotide"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "NC1=NC=C2N(C=NC2=N1)C1CC(O)C(CO)O1",
+        "count": 4
+    },
+    {
+        "names": [
+            "Nebularine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OC(C(O)C1O)N1C=NC2=CN=CN=C12",
+        "count": 4
+    },
+    {
+        "names": [
+            "2-Deoxynebularine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OC(CC1O)N1C=NC2=CN=CN=C12",
+        "count": 4
+    },
+    {
+        "names": [
+            "2,4-Difluorotoluene-2-Deoxyribonucleotide"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CC1=CC(C2CCC(CO)O2)=C(F)C=C1F",
+        "count": 4
+    },
+    {
+        "names": [
+            "N6-ethyl-N6 2-Deoxyadenosine",
+            "N6-Ethyl-N6 2-Deoxyadenosine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OC(CC1O)N1C=NC2=C(NCCNC3=C4N=CN(C5CC(O)C(CO)O5)C4=NC=N3)N=CN=C12",
+        "count": 4
+    },
+    {
+        "names": [
+            "N4-Ethyl-N4 2-Deoxy-5-Methylcytidine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CC1=CN(C2CC(O)C(CO)O2)C(=O)N=C1NCCNC1=NC(=O)N(C=C1C)C1CC(O)C(CO)O1",
+        "count": 4
+    },
+    {
+        "names": [
+            "Abasic(2-hydroxymethyl-tetrahydrofuran-3-ol)"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CC1COC(CO)C1OP(O)([O-])=O",
+        "count": 4
+    },
+    {
+        "names": [
+            "Biotin"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OC(=O)CCCCC1SCC2NC(=O)NC12",
+        "count": 3
+    },
+    {
+        "names": [
+            "Methyluridine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CC1=CNC(=O)NC1=O",
+        "count": 3
+    },
+    {
+        "names": [
+            "Fluorescein"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OC1=CC2=C(C=C1)C1(OC(=O)C3=CC=CC=C13)C1=C(O2)C=C(O)C=C1",
+        "count": 2
+    },
+    {
+        "names": [
+            "[3-(hydroxymethyl)-5-pyren-1-ylphenyl]methanol"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1=CC(=CC(CO)=C1)C1=C2C=CC3=CC=CC4=C3C2=C(C=C4)C=C1",
+        "count": 2
+    },
+    {
+        "names": [
+            "[3-(hydroxymethyl)-5-phenanthren-9-ylphenyl]methanol"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1=CC(=CC(CO)=C1)C1=CC2=CC=CC=C2C2=CC=CC=C12",
+        "count": 2
+    },
+    {
+        "names": [
+            "2-O-Fluoro"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OCC(OF)C1O",
+        "count": 2
+    },
+    {
+        "names": [
+            "Inverted deoxy abasic"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OCCC1OP(O)([O-])=O",
+        "count": 2
+    },
+    {
+        "names": [
+            "2-O-Guanidinoethyl-ribose"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "NC(N)=NCCOC1COC(CO)C1O",
+        "count": 2
+    },
+    {
+        "names": [
+            "2-O-Allyl-ribose"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OCC(OCC=C)C1O",
+        "count": 2
+    },
+    {
+        "names": [
+            "2,3-Di-Chlorobenzene"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OC(C(O)C1O)C1=C(Cl)C(Cl)=CC=C1",
+        "count": 2
+    },
+    {
+        "names": [
+            "N-3 Methyluridine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CN1C(=O)C=CN(C2OC(CO)C(O)C2O)C1=O",
+        "count": 2
+    },
+    {
+        "names": [
+            "Diaminopurine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "NC1=NC2=C(NC=N2)C(N)=N1",
+        "count": 2
+    },
+    {
+        "names": [
+            "5-Iodo-Uridine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OC(C(O)C1O)N1C=C(I)C(=O)NC1=O",
+        "count": 2
+    },
+    {
+        "names": [
+            "5-Bromo-Uridine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OC(C(O)C1O)N1C=C(Br)C(=O)NC1=",
+        "count": 2
+    },
+    {
+        "names": [
+            "N-hexylhexadecanamide"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CCCCCCCCCCCCCCCC(=O)NCCCCCC",
+        "count": 1
+    },
+    {
+        "names": [
+            "5-O-methylthymidine"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "COCC1OC(CC1O)N1C=C(C)C(=O)NC1=O",
+        "count": 1
+    },
+    {
+        "names": [
+            "5-Nitroindoleribonucleotide"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OCC1OC(C(O)C1O)N1C=CC2=CC(=CC=C12)[N+]([O-])=O",
+        "count": 1
+    },
+    {
+        "names": [
+            "Hydroxyphenyl-Conjugated"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "OC1=CC=C(CCC(=O)NCCCCCCOP(O)(O)=O)C=C1",
+        "count": 1
+    },
+    {
+        "names": [
+            "Dodecyl derivative"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CCCCCCCCCCCCOP(O)(O)=O",
+        "count": 1
+    },
+    {
+        "names": [
+            "12-[(2,3,4,6-Tetra-O-methyl-b-D-glucopyranosyloxy)]dodecyl (2-cyanoethyl) (N,N-diisopropyl) phosphoramidite derivative"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "COC1OC(OCCCCCCCCCCCCOP(O)(=O)OCCCCC(=O)NCC(CNC(=O)CCCCOP(O)(=O)OCCCCCCCCCCCCOC2OC(OC)C(OC)C(OC)C2OC)OP(O)(O)=O)C(OC)C(OC)C1OC",
+        "count": 1
+    },
+    {
+        "names": [
+            "12-Hydroxydodecyl 2,3,4,6-Tetra-O-Methyl-b-D-Glucopyranoside"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "COC1OC(OCCCCCCCCCCCCO)C(OC)C(OC)C1OC",
+        "count": 1
+    },
+    {
+        "names": [
+            "2-Hydroxyethyl 2,3,4,6-tetra-O-Methyl-b-D-Glucopyranoside"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "COC1OC(OCCOP(O)([O-])=O)C(OC)C(OC)C1OC",
+        "count": 1
+    },
+    {
+        "names": [
+            "2-Methyl"
+        ],
+        "place": "",
+        "locant": "",
+        "smiles": "",
+        "ref_smiles": "CC1C(O)OC(CO)C1O",
+        "count": 1
+    }
+]

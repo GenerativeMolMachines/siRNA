@@ -1,0 +1,29 @@
+[
+    {
+        "pair": [
+          "Inverted abasic",
+          "2-Methoxy"
+        ],
+        "place": "whole",
+        "locant": "whole",
+        "smiles": "C3OC(CO{PHOSPHATE})C(OC)C3"
+    },
+    {
+        "pair": [
+          "Inverted abasic",
+          "2-Deoxy"
+        ],
+        "place": "whole",
+        "locant": "whole",
+        "smiles": "C3OC(CO{PHOSPHATE})CC3"
+    },
+    {
+        "pair": [
+          "Inverted abasic",
+          "5-phosphate ribose"
+        ],
+        "place": "whole",
+        "locant": "whole",
+        "smiles": "C3OC(CO{PHOSPHATE})C(O)C3"
+    }
+]
