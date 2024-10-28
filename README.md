@@ -7,3 +7,4 @@ Dataset contains variable dataset versions that you can obtain during cleaning a
 Regressor contains files aimed to develop the final model and compared the descriptors and models
 Unified_data contains notebook and other files that make it possible to obtain final version for dataset
 Classifier contains code for 2 types of classifiers. Here we build and optimise our model 
+ 
