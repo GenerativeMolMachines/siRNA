@@ -1,16 +1,28 @@
-# siRNA
+# Machine learning enables the design of highly effective natural and modified small interfering RNA
 
-Small interference RNAs (siRNAs) have emerged as pivotal molecular systems in the fields of therapy and diagnostics due to their regulatory roles in gene expression. Their design is complex due to various factors influencing their activity, including chain length, mismatches, and chemical modifications. These factors exert complex effects on the activity of siRNA therapies, which can complicate their design and application. The experimental design of siRNAs presents a substantial combinatorial challenge, as current methodologies lack versatile design rules. Machine learning (ML) has significantly advanced siRNA research, enabling more efficient and accurate analysis of siRNA data, particularly in predicting efficacy and off-target effects. Existing studies primarily rely on statistical representations of sequences that consider only nucleotide context, often failing to account for the chemical properties of nucleotides as well as modified nucleotides. Consequently, models developed on such bases require extensive datasets to converge towards sufficient predictive accuracy. This work proposes a novel method for predicting gene knockout activity of chemically modified siRNAs using ML leveraging descriptors of siRNA chemical composition with convolutional autoencoder (CAE) architecture. Model, based on Light Gradient Boosting Machine (LGBM), achieves a Root Mean Squared Error (RMSE) as small as 13.8% in activity evaluation on unseen systems, demonstrating its strong predictive capabilities. By filling the gap in the field of advanced chemical composition-aware siRNA design, our model aims to improve the efficacy and specificity of siRNA-based therapies.
+## Abstract
 
+Small interference RNAs (siRNAs) have emerged as pivotal molecular systems in therapy and diagnostics due to their regulatory roles in gene expression. The design of siRNAs is complex, influenced by various factors such as chain length, mismatches, and chemical modifications. These factors complicate their design and application.
 
+This project proposes a novel method for predicting gene knockout activity of chemically modified siRNAs using machine learning (ML), leveraging descriptors of siRNA chemical composition with a convolutional autoencoder (CAE) architecture. Our model, based on Light Gradient Boosting Machine (LGBM), achieves a Root Mean Squared Error (RMSE) as small as 13.8% in activity evaluation on unseen systems, demonstrating its strong predictive capabilities.
 
-Figures contains code for any visualisation of figures in article, except the regression plot. He located in the end of the regression file .py
+## Key Features
 
-Dataset contains variable dataset versions that you can obtain during cleaning and unification
+- Advanced prediction of siRNA efficacy and specificity.
+- Utilization of chemically aware descriptors for siRNA design.
+- Application of ML techniques to enhance the accuracy of predictions.
 
-Regressor contains files aimed to develop the final model and compared the descriptors and models
+## Project Structure
 
-Unified_data contains notebook and other files that make it possible to obtain final version for dataset
+The repository contains the following directories:
 
-Classifier contains code for 2 types of classifiers. Here we build and optimise our model 
+- **Figures**: Contains code for visualizing figures in the article (excluding the regression plot, which is located at the end of the regression file .py).
+  
+- **Dataset**: Includes various versions of the dataset obtained during cleaning and unification.
+
+- **Regressor**: Contains files aimed at developing the final model, comparing descriptors and models.
+
+- **Unified_data**: Includes notebooks and other files that facilitate obtaining the final version of the dataset.
+
+- **Classifier**: Contains code for two types of classifiers used to build and optimize our model.
  
