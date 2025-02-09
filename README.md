@@ -1,4 +1,4 @@
-# Machine learning enables the design of highly effective natural and modified small interfering RNA
+# Machine learning on autoencoder- and LLM-derived embeddings for the design of highly effective chemically modified siRNAs for gene knockdown
 
 ## Abstract
 
