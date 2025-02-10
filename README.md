@@ -16,7 +16,7 @@ This work proposes a novel method for predicting gene knockout activity of chemi
 
 The repository contains the following directories:
 
-- **Figures**: Contains code for visualizing figures in the article (excluding the regression plot, which is located at the end of the regression file .py).
+- **Figures**: Contains code for visualizing figures in the article (excluding the regression and classification plots, which is located at the end of the regression and binary classification files .ipynb).
   
 - **Dataset**: Includes various versions of the dataset obtained during cleaning and unification.
 
