@@ -1,4 +1,4 @@
-# Machine learning on autoencoder- and LLM-derived embeddings for the design of highly effective chemically modified siRNAs for gene knockdown
+# Meta-learning on property matrices and LLM embeddings enables state-of-the-art prediction of gene knockdown by chemically modified siRNA
 
 ## Abstract
 
@@ -9,6 +9,7 @@ Six small interference RNAs (siRNAs) have been approved as therapeutics making t
 - Advanced prediction of siRNA efficacy and specificity.
 - Utilization of chemically aware descriptors for siRNA design.
 - Application of ML techniques to enhance the accuracy of predictions.
+- The method works with any gene as long as its nucleotide sequence is known.
 
 ## Project Structure
 
